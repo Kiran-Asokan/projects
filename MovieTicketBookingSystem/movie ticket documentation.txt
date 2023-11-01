@@ -11,7 +11,7 @@ Configuration
 	Using Envirnmental variables for configuration
 PORT - Specifies the port number on which the server runs.
 MONGO_CLIENT - Specifies the url for the mongoose database
-
+   
 Dependencies
 express - node js framework.
 mongoose - mongoDB framework.
