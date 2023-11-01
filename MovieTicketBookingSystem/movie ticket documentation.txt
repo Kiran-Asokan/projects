@@ -1,5 +1,4 @@
-MOVIE TICKET BOOKING SYSTEM
-DOCUMENTATION
+MOVIE TICKET BOOKING SYSTEM DOCUMENTATION
 Introduction
 	It is an application that allows the users to book movie ticket. It allows the theaters to add a 	shows so all users can see them  and admin can manage all users, theaters and movies
 Features
